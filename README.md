@@ -15,7 +15,7 @@ http.createServer(function(req,res){
 }).listen(3000);//监听3000端口
 
 console.log("HTTP server is listening at port 3000.");
-
+```
 二、
 dos窗口，
 cd e:\node
