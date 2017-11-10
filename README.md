@@ -6,7 +6,7 @@ Node环境搭建
 
 test.js
 
-var http = require("http");//http模块
+`var http = require("http");//http模块`
 http.createServer(function(req,res){
 	res.writeHead(200,{"Content-Type":"text/html"});
 	res.write("<h1>node.js</h1>");
